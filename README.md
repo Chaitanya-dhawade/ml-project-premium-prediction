@@ -79,8 +79,7 @@ xgboost==1.6.2
 streamlit run app.py
 ```
 
-### Access the Live App
-[Streamlit App](https://lnkd.in/gb54Vsnw)
+
 
 ---
 
